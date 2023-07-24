@@ -1,0 +1,8 @@
+ Seven Primitive Data Types
+  1. Number > used for decimal or integer [let age = 23;]
+  2. String :> used for text [let firstname = "Jonas";]
+  3. Boolean :> Used for taking decesions [let fullAge = true];
+  4. Undefined :> value is not define [let children;]
+  5. Null: Also means 'empty value'
+  6. symbol(ES2015) :> Not usefull for used
+  7. BigInt(ES2020) :> Laqrger Integer than the Number type can hold
